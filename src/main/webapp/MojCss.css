@@ -1,0 +1,29 @@
+h3 {
+background-color:#FFF;
+margin: -1em auto 0;
+text-align:center;
+padding-bottom: 10px;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h2 {
+background-color:#FFF;
+margin: -1em auto 0;
+text-align:left;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.form-horizontal {
+	width: 50%;
+	text-align:left;
+}
+
+.right {
+    float: left;
+    width: 300px;
+    padding: 10px;
+}
+
+.col-md-4 control-label {
+    text-align:left;
+}
